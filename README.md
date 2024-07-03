@@ -256,5 +256,7 @@ The following is a partial list of the used files, terms and utilities:
 ## Future Change Considerations
 ### Future changes to the objective will/may include:
 701.2: Remove the OpenStack examples and focus on the general features
+
 702.2: Reconsider Swarm and potentially increase Kubernetes
+
 703.1: Reconsider Vagrant (or its weight)
